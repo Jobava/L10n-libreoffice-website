@@ -1,0 +1,129 @@
+#. extracted from lang/en_US.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-17 22:37+0300\n"
+"PO-Revision-Date: 2012-11-14 07:38+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1352878723.000000\n"
+"X-Pootle-Path: /ro/website/faqs-ro.po\n"
+"X-Pootle-Revision: 0\n"
+
+#: $lang['en_US']['FaqsPageEntry']['QUESTIONLABEL']
+msgid "Question"
+msgstr "Întrebare"
+
+#: $lang['en_US']['FaqsPageEntry']['ANSWERLABEL']
+msgid "Answer"
+msgstr "Răspuns"
+
+#: $lang['en_US']['FaqsPageEntry']['COUNTHITSLABEL']
+msgid "Count Hits?"
+msgstr "Contorizare afișări?"
+
+#: $lang['en_US']['FaqsPageEntry']['HITSLABEL']
+msgid "Number of Hits"
+msgstr "Numărul afisărilor"
+
+#: $lang['en_US']['FaqsPageEntry']['RELATEDLABEL']
+msgid "Related Faqs"
+msgstr "Întrebări frecvente"
+
+#: $lang['en_US']['FaqsHolder']['SEARCHTITLE']
+msgid "Search"
+msgstr "Caută"
+
+#: $lang['en_US']['FaqsHolder']['SEARCHSELCATEGORY']
+msgid "Category"
+msgstr "Categorie"
+
+#: $lang['en_US']['FaqsHolder']['SEARCHALLCATEGORIES']
+msgid "All categories"
+msgstr "Toate categoriile"
+
+#: $lang['en_US']['FaqsHolder']['SEARCHBUTTONLABEL']
+msgid "Go"
+msgstr "Dute"
+
+#: $lang['en_US']['FaqsHolder']['SEARCHRESULTS']
+msgid "Search results"
+msgstr "Rezultatele căutării"
+
+#: $lang['en_US']['FaqsHolder.ss']['GOTOFAQ']
+msgid "Show Document"
+msgstr "Afișează document"
+
+#: $lang['en_US']['FaqsHolder.ss']['VIEWFAQSCOMMENTS']
+msgid "View Comments"
+msgstr "Vizualizare comentarii"
+
+#: $lang['en_US']['FaqsHolder.ss']['NOFAQSENTRIES']
+msgid "There are no Faqs entries"
+msgstr "Nu există înregistrări pentru întrebări frecvente"
+
+#: $lang['en_US']['FaqsHolder.ss']['GOTOPREVIOUSPAGE']
+msgid "View the previous page"
+msgstr "Vezi pagina anterioară"
+
+#: $lang['en_US']['FaqsHolder.ss']['GOTONEXTPAGE']
+msgid "View next page"
+msgstr "Vezi pagina următoare"
+
+#: $lang['en_US']['FaqsHolder.ss']['PREVIOUSPAGE']
+msgid "Prev"
+msgstr "Anteriorul"
+
+#: $lang['en_US']['FaqsHolder.ss']['NEXTPAGE']
+msgid "Next"
+msgstr "Următorul"
+
+#: $lang['en_US']['FaqsHolder.ss']['VIEWPAGENUM']
+msgid "View page number"
+msgstr "Vezi numărul paginii"
+
+#: $lang['en_US']['FaqsPage.ss']['RELATEDFAQ']
+msgid "Related"
+msgstr "Aferent"
+
+#: $lang['en_US']['FaqsSearchResults.ss']['READMORE']
+msgid "Read more... "
+msgstr "Citește mai mult... "
+
+#: $lang['en_US']['FaqsSearchResults.ss']['NORESULTSFAQS']
+msgid "Sorry, your search query did not return any results."
+msgstr "Ne pare rău, căutarea nu a returnat niciun rezultat."
+
+#: $lang['en_US']['FaqsTopWidget']['TITLE']
+msgid "Top Faqs"
+msgstr "Cele mai frecvente întrebări"
+
+#: $lang['en_US']['FaqsTopWidget']['LIMIT']
+msgid "Number of faqs to display"
+msgstr "Numărul de întrebări frecvent afișate"
+
+#: $lang['en_US']['FaqsTopWidget']['LABEL']
+msgctxt "$lang['en_US']['FaqsTopWidget']['LABEL']"
+msgid "Widget Title"
+msgstr "Titlu widget"
+
+#: $lang['en_US']['FaqsSearchWidget']['TITLE']
+msgid "Search faqs"
+msgstr "Căutare"
+
+#: $lang['en_US']['FaqsSearchWidget']['LIMIT']
+msgid "Items by Page"
+msgstr "Obiecte pe pagină"
+
+#: $lang['en_US']['FaqsSearchWidget']['LABEL']
+msgctxt "$lang['en_US']['FaqsSearchWidget']['LABEL']"
+msgid "Widget Title"
+msgstr "Titlu widget"

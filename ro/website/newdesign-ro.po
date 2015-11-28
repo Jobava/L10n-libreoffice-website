@@ -1,0 +1,322 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-06-29 23:59+0200\n"
+"PO-Revision-Date: 2015-07-20 12:41+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1437396077.000000\n"
+"X-Pootle-Path: /ro/website/newdesign-ro.po\n"
+"X-Pootle-Revision: 64269\n"
+
+msgctxt "BitPay:ButtonAltText"
+msgid "BitPay, the easy way to pay with bitcoins."
+msgstr "BitPay, o simplă modalitate de a dona prin bitcoin."
+
+msgctxt "BitPay:CheckoutLocale"
+msgid "en_US"
+msgstr "en_US"
+
+msgctxt "BitPay:Email"
+msgid "Email address (optional)"
+msgstr "Adresa de e-mail (opțional)"
+
+msgctxt "BitPay:Header"
+msgid "You can donate Via Bitcoins"
+msgstr "Puteți dona prin bitcoin"
+
+msgctxt "BitPay:LabelEmail"
+msgid "Email:"
+msgstr "E-mail:"
+
+msgctxt "BitPay:RefundDisclaimer"
+msgid "Due to their nature, donations via Bitcoins are usually anonymous, so any kind of refunds or donation confirmation is only possible on the sum we received by our payment provider, and only given you mention your e-mail address. If you don't consent to the aforementioned conditions, we kindly ask you to consider one of the other donation options outlined on this page."
+msgstr ""
+"Din natura lor, donațiile bitcoin sunt în principiu anonime, urmând ca orice "
+"rambursare este posibil numai dacă specificați datele personala la donație. "
+"Dacă nu sunteți de acord cu condițiile de mai sus, vă recomandă o altă "
+"modalitate de donație pusă la dispoziție pe această pagină."
+
+msgctxt "Concardis:CancelHeader"
+msgid "You have cancelled the process"
+msgstr "Ați anulat procesul"
+
+msgctxt "Concardis:CancelMessage"
+msgid "Unfortunately, you did cancel the payment. <b>You have not been charged.</b> Please try again, and in case of problems or questions, feel free to contact us at {infoemail} any time."
+msgstr ""
+"Din nefericire nu puteți anula procesul de plată. <b>Nu au fost retrași "
+"banii.</b> Vă rugăm, încercați încă o dată, și în cazul unei probleme sau "
+"întrebări, nu ezitați să ne contactați {infoemail}."
+
+msgctxt "Concardis:ProblemHeader"
+msgid "There has been a problem…"
+msgstr "Este o problemă…"
+
+msgctxt "Concardis:ProblemMessage"
+msgid "Unfortunately, the payment did not succeed. This might either be due to a problem with our payment server, or with your credit card. <b>You have not been charged.</b> Please try again later, and in case of problems, feel free to contact us at {infoemail} any time."
+msgstr ""
+"Din nefericire plata nu sa finalizat. Probabil sunt probleme cu sistemul de "
+"plată sau cu cardul de credit. <b>Suma nu a fost retrasă.</b> Vă rugăm, "
+"încercați încă o dată, și în cazul unei probleme sau întrebări, nu ezitați "
+"să ne contactați {infoemail}."
+
+msgctxt "Concardis:Processing"
+msgid "We are processing your payment"
+msgstr "Procesăm plata"
+
+msgctxt "Concardis:ThankYouHeader"
+msgid "Thank you very much for your donation!"
+msgstr "Vă mulțumim pentru donație!"
+
+msgctxt "Concardis:ThankYouMessage"
+msgid "The Document Foundation would like to thank you for your kind and generous donation. We have received your payment! Enjoy LibreOffice, and thank you very much for your support!"
+msgstr ""
+"The Document Foundation vă mulțumește pentru orice donație. Am primit "
+"donația! Bucurați-vă de LibreOffice, și mulțumim mult pentru suport!"
+
+msgctxt "Concardis:ThanksButHeader"
+msgid "Thank you very much for your donation!"
+msgstr "Mulțumim mult pentru donație!"
+
+msgctxt "Concardis:ThanksButMessage1"
+msgid "The Document Foundation would like to thank you for your kind and generous donation. We have received your payment! Enjoy LibreOffice, and thank you very much for your support!"
+msgstr ""
+"The Document Foundation vă mulțumește pentru orice donație. Am primit "
+"donația! Bucurați-vă de LibreOffice, și mulțumim mult pentru suport!"
+
+msgctxt "Concardis:ThanksButMessage2"
+msgid "Please note that the donation could not yet be confirmed. Please check in your records whether the donation did work."
+msgstr ""
+"Donația nu a fost confirmată. Verificați în înregistrările proprii dacă s-a "
+"efectuat donația."
+
+msgctxt "DonatePage:BUTTON_CARD"
+msgid "Donate via Credit Card"
+msgstr "Donați prin card de credit"
+
+msgctxt "DonatePage:BUTTON_PAYPAL"
+msgid "Donate via PayPal"
+msgstr "Donați prin PayPal"
+
+msgctxt "DonatePage:CHOICE_DEFAULT"
+msgid "Select one of the default values"
+msgstr "Selectați una din valorile implicite"
+
+msgctxt "DonatePage:CUSTOM_AMOUNT_VALUE"
+msgid "25"
+msgstr "25"
+
+msgctxt "DonatePage:CUSTOM_CHOICE"
+msgid "Or enter a custom amount and currency<br/>(only those marked with * are also available via PayPal)"
+msgstr ""
+"Sau introduceți o altă sumă și valută<br/>(numai cele marcate cu * sunt "
+"disponibile și cu PayPal)"
+
+msgctxt "DonatePage:ContinueLabel"
+msgid "Continue"
+msgstr "Continuă"
+
+msgctxt "DonatePage:DEFAULT_AMOUNT_EUR05"
+msgid "5"
+msgstr "5"
+
+msgctxt "DonatePage:DEFAULT_AMOUNT_EUR10"
+msgid "10"
+msgstr "10"
+
+msgctxt "DonatePage:DEFAULT_AMOUNT_EUR20"
+msgid "20"
+msgstr "20"
+
+msgctxt "DonatePage:DEFAULT_AMOUNT_EUR50"
+msgid "50"
+msgstr "50"
+
+msgctxt "DonatePage:DEFAULT_CURRENCY"
+msgid "USD"
+msgstr "USD"
+
+msgctxt "DonatePage:LeadText"
+msgid "LibreOffice is Free Software and is made available free of charge. <br/>Your donation, which is purely optional, supports our worldwide community.<br/>If you like the software, please consider a donation."
+msgstr ""
+"LibreOffice este un program liber și este disponibil gratuit.<br/>Donația "
+"dumneavoastră, care este complet opțională, este pentru a sponsoriza "
+"comunitatea globală.<br/>Dacă vă place acest program, puteți face o donație."
+
+msgctxt "DonatePage:ProceedConcardis"
+msgid "To process your donation of <strong>{amount} {currency}</strong>, you are now forwarded to ConCardis' website to complete the payment.<br/>If you are not forwarded automatically, please click the button named Continue below."
+msgstr ""
+"Pentru a procesa donația de <strong>{amount} {currency}</strong>, veți fi "
+"redirectați pe pagina ConCardis', pentru a completa detaliile plății.<br/>"
+"Dacă nu veți fi redirecționat automat, dați clic pe Continuare."
+
+msgctxt "DonatePage:ProceedPayPal"
+msgid "To process your donation of <strong>{amount} {currency}</strong>, you are now forwarded to PayPal's website to complete the payment.<br/>If you are not forwarded automatically, please click the button named Continue below."
+msgstr ""
+"Pentru a procesa donația de <strong>{amount} {currency}</strong>, veți fi "
+"redirectați pe pagina ConCardis', pentru a completa detaliile plății.<br/>"
+"Dacă nu veți fi redirecționat automat, dați clic pe Continuare."
+
+msgctxt "Download:ChangeLanguageLinkText"
+msgid "need another language?"
+msgstr "doriți o altă limbă?"
+
+msgctxt "Download:ChangeLanguageLinkTitle"
+msgid "Pick another language"
+msgstr "Selectați o altă limbă"
+
+msgctxt "Download:Helppack"
+msgid "LibreOffice Built in help in <strong>{language}</strong>"
+msgstr ""
+"Ajutorul integrat LibreOffice este disponibil în <strong>{language}</strong>"
+
+msgctxt "Download:HelppackButtonLabel"
+msgid "Help for offline use"
+msgstr "Ajutor pentru utilizare offline"
+
+msgctxt "Download:HelppackFallback"
+msgid "LibreOffice Built in help <strong>English fallback</strong>"
+msgstr "Ajutorul integrat LibreOffice în <strong>engleză</strong>"
+
+msgctxt "Download:HelppackLinkTitle"
+msgid "Download helpcontent for offline use"
+msgstr "Descărcați ajutorul pentru utilizare offline"
+
+msgctxt "Download:InfoLinkTitle"
+msgid "Checksums and additional info"
+msgstr "Checksum-uri și informații adiționale"
+
+msgctxt "Download:InfoText"
+msgid "Info"
+msgstr "Informații"
+
+msgctxt "Download:Langpack"
+msgid "Get LibreOffice interface translated in <strong>{language}</strong>"
+msgstr "Descărcați interfața LibreOffice în <strong>{language}</strong>"
+
+msgctxt "Download:LangpackButtonLabel"
+msgid "Translated User Interface"
+msgstr "Interfața cu utilizatorul tradus"
+
+msgctxt "Download:LangpackLinkTitle"
+msgid "Download the Languagepack"
+msgstr "Descărcați pachetul lingvistic"
+
+msgctxt "Download:Mac64reqs"
+msgid "10.8 or newer required"
+msgstr "Este necesară versiunea 10.8 sau mai recentă"
+
+msgctxt "Download:MainButtonLabel"
+msgid "Download Version {version}"
+msgstr "Descărcați versiunea {version}"
+
+msgctxt "Download:MainInstaller"
+msgid "Main Installer"
+msgstr "Installer principal"
+
+msgctxt "Download:MainLinkTitle"
+msgid "Download LibreOffice {version} for {os}"
+msgstr "Descărcați LibreOffice {version} pentru {os}"
+
+msgctxt "Download:OS"
+msgid "Operating Systems"
+msgstr "Sistem de operare"
+
+msgctxt "Download:OSList"
+msgid "LibreOffice {version} is available for the following operating systems/architectures:"
+msgstr ""
+"LibreOffice {version} este disponibil pentru următoarele arhitecturi/sisteme "
+"de operare:"
+
+msgctxt "Download:PickLanguage"
+msgid "Please select your language"
+msgstr "Alegeți limbă dorită"
+
+msgctxt "Download:PlatformChange"
+msgid "Selected: LibreOffice {version} for {os} - <a href='{curr_page}#change'>change?</a>"
+msgstr ""
+"Selectat: LibreOffice {version} pentru {os} - <a "
+"href='{curr_page}#change'>modificați?</a>"
+
+msgctxt "Download:SDKandSource"
+msgid "SDK and Sourcecode"
+msgstr "SDK și cod sursă"
+
+msgctxt "Download:SDKDownload"
+msgid "Download the SDK"
+msgstr "Descărcare SDK"
+
+msgctxt "Download:SourceDownload"
+msgid "Download the Sourcecode"
+msgstr "Descărcare cod sursă"
+
+msgctxt "Download:TorrentLinkText"
+msgid "Torrent"
+msgstr "Torent"
+
+msgctxt "Download:TorrentLinkTitle"
+msgid "Download using BitTorrent"
+msgstr "Descărcare cu BitTorent"
+
+msgctxt "Download:VersionListReleased"
+msgid "LibreOffice is available in the following <strong>released</strong> versions:"
+msgstr ""
+"LibreOffice este disponibil în următoarele versiuni<strong>lansate</strong>:"
+
+msgctxt "Download:VersionListTesting"
+msgid "LibreOffice is available in the following <strong>prerelease</strong> versions:"
+msgstr ""
+"LibreOffice este disponibil în următoarele versiuni "
+"<strong>prerelease</strong>:"
+
+msgctxt "Download:Versions"
+msgid "Available Versions"
+msgstr "Versiuni disponibile"
+
+msgctxt "Download:Win64reqs"
+msgid "Vista or newer required"
+msgstr "este necesar Vista sau un sistem de operare mai recent"
+
+msgctxt "Homepage:DownloadNow"
+msgid "Download Now"
+msgstr "Descărcați acum"
+
+msgctxt "RSS:ReadMore"
+msgid "read more »"
+msgstr "Citiți mai mult »"
+
+msgctxt "Shortcode:NoPortable"
+msgid "No Portable Version ({multilingualtype}) is currently available"
+msgstr "Acum nu este disponibilă versiune portabilă ({multilingualtype})"
+
+msgctxt "Shortcode:NoRC"
+msgid "No RC is currently available"
+msgstr "Nu este disponibilă versiune RC"
+
+msgctxt "Shortcode:NoRC_Codeline"
+msgid "No RC is currently available for the {version} codeline"
+msgstr "Nu este disponibilă versiune RC pentru versiunea {version}"
+
+msgctxt "Shortcode:ReleaseNotesLinkText"
+msgid "Release Notes"
+msgstr "Note de lansare"
+
+msgctxt "Social:FollowUs"
+msgid "Follow Us"
+msgstr "Urmăriți-ne"
+
+msgctxt "Social:LatestTweets"
+msgid "Latest Tweets"
+msgstr "Ultimele îmbunătățiri"

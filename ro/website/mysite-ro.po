@@ -1,0 +1,788 @@
+#. extracted from lang/en_US.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-19 20:17+0200\n"
+"PO-Revision-Date: 2015-07-29 08:58+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1438160323.000000\n"
+"X-Pootle-Path: /ro/website/mysite-ro.po\n"
+"X-Pootle-Revision: 76779\n"
+
+#: $lang['en_US']['Donationpage']['AMOUNT']
+msgid "Amount:"
+msgstr "Suma:"
+
+#: $lang['en_US']['DonatePage']['BUTTON_CARD']
+msgid "Donate via Credit Card"
+msgstr "Donați prin card bancar"
+
+#: $lang['en_US']['DonatePage']['BUTTON_PAYPAL']
+msgid "Donate via PayPal"
+msgstr "Donați prin PayPal"
+
+#: $lang['en_US']['DonatePage']['CHOICE_DEFAULT']
+msgid "Select one of the default values"
+msgstr "Alegeți una din valorile implicite"
+
+#: $lang['en_US']['DonatePage']['CUSTOM_CHOICE']
+msgid ""
+"Or enter a custom amount and currency<br/>(only those marked with * are also "
+"available via PayPal)"
+msgstr ""
+"Sau introduceți suma dorită și moneda<br/>(doar acelea marcate cu * sunt "
+"disponibile și prin PayPal)"
+
+#: $lang['en_US']['DonatePage']['CUSTOM_AMOUNT_VALUE']
+msgid "25"
+msgstr "25"
+
+#: $lang['en_US']['DonatePage']['DEFAULT_AMOUNT_EUR05']
+msgid "5"
+msgstr "5"
+
+#: $lang['en_US']['DonatePage']['DEFAULT_AMOUNT_EUR10']
+msgid "10"
+msgstr "10"
+
+#: $lang['en_US']['DonatePage']['DEFAULT_AMOUNT_EUR20']
+msgid "20"
+msgstr "20"
+
+#: $lang['en_US']['DonatePage']['DEFAULT_AMOUNT_EUR50']
+msgid "50"
+msgstr "50"
+
+#: $lang['en_US']['DonatePage']['DEFAULT_CURRENCY']
+msgid "USD"
+msgstr "USD"
+
+#. /* %s is a regular downloadlink, with the filename as label
+#: $lang['en_US']['DonatePage']['DLRefreshMsg']
+msgid ""
+"Your download %s should begin shortly. Please click the link in case it "
+"doesn't start."
+msgstr ""
+"Descărcarea %s va începe imediat. Clic pe legătură dacă totuși nu a început."
+
+#. /* supplemental downloads for that version, i.e. Helppack and/or Languagepack
+#: $lang['en_US']['DonatePage']['DLOptional']
+msgid "You can find the optional downloads on the left."
+msgstr "În partea stângă puteți găsi și alte descărcări opționale."
+
+#: $lang['en_US']['Downloadpage']['BITTORRENT']
+msgid "Download using BitTorrent"
+msgstr "Descarcare folosind BitTorrent"
+
+#: $lang['en_US']['Downloadpage']['DETAILLINK']
+msgid "Get details (md5sum,…)"
+msgstr "Detalii (md5sum,…)"
+
+#: $lang['en_US']['Downloadpage']['DLSDK']
+msgid "Download the SDK for developing extensions and external tools"
+msgstr "Descărcare SDK pentru a dezvolta extensii și alte programe externe"
+
+#: $lang['en_US']['Downloadpage']['DLSOURCE']
+msgid "Download the source code to build your own installer"
+msgstr "Descărcare cod sursă pentru a crea un pachet instalabil propriu"
+
+#: $lang['en_US']['Downloadpage']['DLSUITE']
+msgid "Other way to download LibreOffice, the productivity suite"
+msgstr "Alte metode de a descărca suita de productivitate LibreOffice"
+
+#: $lang['en_US']['Downloadpage']['NOTESTBUILDS']
+msgid "There are no testing builds available at the moment."
+msgstr "Nu există build-uri de test disponibile momentan."
+
+#. /* Localizers: this string HAS to be enclosed in either single or double ASCII quotes! It is a title attribute of a link.
+#: $lang['en_US']['Navigation']['GOTOPAGE']
+msgid "\"Go to the %s page\""
+msgstr "\"Săriți la pagina %s\""
+
+#: $lang['en_US']['Navigation']['TOTOPTITLE']
+msgid "scroll to top of page"
+msgstr "săriți la începutul paginii"
+
+#: $lang['en_US']['Navigation']['TOTOP']
+msgid "⬆ to top"
+msgstr "⬆ sus"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadNeededFiles']
+msgid "You need to download and install these files in order:"
+msgstr "Trebuie descărcate și instalate următoarele fișiere în ordine:"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsDevelopersHeader']
+msgid "Developers"
+msgstr "Dezvoltatori"
+
+#. /* %s will be replaced with OS/arch, version, language
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsHeader']
+msgid "Selected: LibreOffice <b>%s</b>"
+msgstr "Selectat: LibreOffice <b>%s</b>"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['NotWanted']
+msgid "Not the version you wanted?"
+msgstr "Nu este versiunea dorită?"
+
+#. /* will be displayed instead of the dl-buttons
+#: $lang['en_US']['DownloadSimplePage.ss']['NoRegularDL']
+msgid ""
+"No regular installation files are available.<br/>Please change your "
+"selection or pick one from the additional downloads below."
+msgstr ""
+"Nu sunt disponibile pachete de instalare.<br/>Modificați selecția, sau "
+"selectați una din versiunile de mai jos."
+
+#. /* watch out for proper quoting
+#: $lang['en_US']['DownloadSimplePage.ss']['ViewDLArchive']
+msgid ""
+"If you're looking for old versions, please visit our <a href=\"http://downloa"
+"darchive.documentfoundation.org/libreoffice/old\">download archive</a>."
+msgstr ""
+"Dacă doriți o versiune mai veche, vizitați <a href=\""
+"http://downloadarchive.documentfoundation.org/libreoffice/old\">arhiva de "
+"descărcări</a>."
+
+#. /* will be formatted as link
+#: $lang['en_US']['DownloadSimplePage.ss']['ChangeLanguage']
+msgid "Change the language"
+msgstr "Schimbați limba"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['ChangeVersion']
+msgid "Change the version:"
+msgstr "Schimbați versiunea:"
+
+#. /* watch out to escape quotes if necessary - no need to use the abbreviation if it doesn't apply to your language
+#: $lang['en_US']['DownloadSimplePage.ss']['ChangeOS']
+msgid "Change <abbr title=\"Operating System\">OS</abbr>:"
+msgstr "Schimbați <abbr title=\"Operating System\">sistemul de operare</abbr>:"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsInfoLink']
+msgid "Info"
+msgstr "Informații"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsInfoTitle']
+msgid "See the md5sum and list of download mirrors for the file"
+msgstr ""
+"Afișare md5sum și lista serverelor alternative pentru descărcarea fișierului"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsInstallTypeFull']
+msgid "Main installer"
+msgstr "Kit de instalare principal"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsInstallTypeHelppack']
+msgid "LibreOffice built-in help"
+msgstr "Ajutorul integrat în LibreOffice"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsInstallTypeLanguagepack']
+msgid "Translated user interface"
+msgstr "Interfață utilizator tradusă"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsIsoHeader']
+msgid "%s image"
+msgstr "Imagine %s"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsIsoText']
+msgid "Download an ISO-file to create an installation media"
+msgstr "Descărcare fișier ISO pentru a crea disc de instalare"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsAppStoreHeader']
+msgid "%s install"
+msgstr "Instalare %s"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsAppStoreText']
+msgid "Install LibreOffice %s via the Intel AppUp Center."
+msgstr "Instalare LibreOffice %s prin Intel AppUp Center."
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsPackagesHeader']
+msgid "Packages"
+msgstr "Pachete"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsPortableHeader']
+msgid "PortableApps"
+msgstr "PortableApps"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsPortableText']
+msgid ""
+"A portable version of LibreOffice packaged in PortableApps.com Format, so "
+"you can take all your documents and everything you need to work from a USB, "
+"cloud or local drive. See <a "
+"href=\"http://portableapps.com/\">PortableApps.com</a> for more information."
+msgstr ""
+"Versiunea portabilă a lui LibreOffice împachetată în formatul "
+"PortableApps.com, prin care puteți să vă luați documentele oriunde, pe un "
+"stick USB, în cloud sau pe hard disk local. Vedeți <a href=\""
+"http://portableapps.com/\">PortableApps.com</a> pentru mai multe informații."
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsPrereleaseWarning']
+msgid "This is a pre-release version not meant for general use."
+msgstr "Acesta este o versiune pre-release, nerecomandată pentru uz general."
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsRelatedRessources']
+msgid "Handy resources"
+msgstr "Resurse la îndemână"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsSdkHeader']
+msgid "Software development kit (SDK)"
+msgstr "Kit de dezvoltare software (SDK)"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsSdkText']
+msgid "Download the SDK for developing extensions and external tools."
+msgstr "Descărcați SDK pentru a dezvolta extensii sau aplicații externe."
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsSrcHeader']
+msgid "Source code"
+msgstr "Codul sursă"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsSrcText']
+msgid ""
+"LibreOffice is an open source project and you can therefore download the "
+"source code to build your own installer."
+msgstr ""
+"LibreOffice este un proiect open source, prin urmare puteți descărca codul "
+"sursă pentru a construi propriul kit de instalare."
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsTorrentLink']
+msgid "Torrent"
+msgstr "Torent"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsTorrentTitle']
+msgid "Download the files using BitTorrent"
+msgstr "Descărcare fișiere cu ajutorul BitTorrent"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['DownloadsVersion']
+msgid "version %s"
+msgstr "versiunea %s"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['LanguagesPleaseSelect']
+msgid "Please select your language"
+msgstr "Selectați limba dorită"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['TypeOr']
+msgid "or download"
+msgstr "sau descărcați"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['VersionsPrereleaseHeader']
+msgid "Pre-releases:"
+msgstr "Pre-release-uri:"
+
+#: $lang['en_US']['DownloadSimplePage.ss']['VersionsRecommended']
+msgid "Recommended"
+msgstr "Recomandat"
+
+#: $lang['en_US']['FancyPage.ss']['NOSCRIPT']
+msgid "Javascript is disabled in your web browser."
+msgstr "Javascript este dezactivat în navigator."
+
+#: $lang['en_US']['FancyPage.ss']['FANCYLABEL']
+msgid "LibreOffice 4"
+msgstr "LibreOffice 4"
+
+#: $lang['en_US']['FancyPage.ss']['DISCOVER']
+msgid "Discover it"
+msgstr "Descoperă-l"
+
+#: $lang['en_US']['FancyPage.ss']['DONATE']
+msgid "Donate"
+msgstr "Donează"
+
+#: $lang['en_US']['FancyPage.ss']['MAINSITE']
+msgid "Main website"
+msgstr "Site principal"
+
+#: $lang['en_US']['FancyPage.ss']['DLBADGE']
+msgid "Download<br/><strong>Libre</strong>Office<br/>now&nbsp;!"
+msgstr "Descarcă<br/><strong>Libre</strong>Office<br/>acum&nbsp;!"
+
+#: $lang['en_US']['FancyPage.ss']['SUITE_H']
+msgid "Free Office Suite"
+msgstr "Suita office gratuită"
+
+#: $lang['en_US']['FancyPage.ss']['SUITE']
+msgid ""
+"LibreOffice 4: The free office suite the community has been dreaming of for "
+"twelve years."
+msgstr ""
+"LibreOffice 4: Suita office gratuită dorită de comunitate în ultimii "
+"doisprezece ani."
+
+#: $lang['en_US']['FancyPage.ss']['FUN_H']
+msgid "Fun project"
+msgstr "Proiect distractiv"
+
+#: $lang['en_US']['FancyPage.ss']['FUN']
+msgid ""
+"LibreOffice is one of the friendliest and fastest growing projects in the "
+"free and open source software world. We commit ourselves to produce truly "
+"great and free software.<br/><a "
+"href=\"https://www.documentfoundation.org/foundation/\">Discover more about us "
+"and our values</a>"
+msgstr ""
+"LibreOffice este unul din cele mai prietenoase proiecte libere și open-"
+"source și cu una din cele mai rapide creșteri din lumea software. Ne angajăm "
+"să producem software de calitate și liber.<br/><a href=\""
+"https://www.documentfoundation.org/foundation/\">Descoperiți mai multe "
+"despre noi și valorile noastre</a>"
+
+#: $lang['en_US']['FancyPage.ss']['PEOPLE_H']
+msgid "Fantastic people"
+msgstr "Oameni fantastici"
+
+#: $lang['en_US']['FancyPage.ss']['PEOPLE']
+msgid ""
+"LibreOffice is about more than software. It's about people, it's about "
+"culture, it's about creation, sharing and collaboration.<br/>We can only "
+"exist and grow thanks to the volunteers of the LibreOffice project. We have "
+"many roles for you, from engineering tasks to community support and creative "
+"work.<br/><a href=\"https://www.libreoffice.org/get-involved/\">Join us today "
+"!</a>"
+msgstr ""
+"LibreOffice este mai mult decât software. Este vorba de oameni, cultura și "
+"procesul de creație, împărtășire și colaborare.<br/>Nu putem exista și "
+"crește decât datorită voluntarilor proiectului LibreOffice. Avem multe "
+"roluri pe care le puteți îndeplini, de la inginerie sa sprijin comunitar și "
+"muncă creativă.<br/><a href=\"https://www.libreoffice.org/get-involved/\""
+">Alătură-te azi !</a>"
+
+#: $lang['en_US']['LocaleName']['af']
+msgid "Afrikaans"
+msgstr "Afrikaans"
+
+#: $lang['en_US']['LocaleName']['ar']
+msgid "Arabic"
+msgstr "Arabă"
+
+#: $lang['en_US']['LocaleName']['as']
+msgid "Assamese"
+msgstr "Asameză"
+
+#: $lang['en_US']['LocaleName']['ast']
+msgid "Asturian"
+msgstr "Asturiană"
+
+#: $lang['en_US']['LocaleName']['be']
+msgid "Belarusian"
+msgstr "Belarusă"
+
+#: $lang['en_US']['LocaleName']['bg']
+msgid "Bulgarian"
+msgstr "Bulgariană"
+
+#: $lang['en_US']['LocaleName']['bn']
+msgid "Bengali"
+msgstr "Bengaleză"
+
+#: $lang['en_US']['LocaleName']['bo']
+msgid "Tibetan"
+msgstr "Tibetiană"
+
+#: $lang['en_US']['LocaleName']['br']
+msgid "Breton"
+msgstr "Bretonă"
+
+#: $lang['en_US']['LocaleName']['brx']
+msgid "Bodo (India)"
+msgstr "Bodo (India)"
+
+#: $lang['en_US']['LocaleName']['bs']
+msgid "Bosnian"
+msgstr "Bosniac"
+
+#: $lang['en_US']['LocaleName']['ca']
+msgid "Catalan"
+msgstr "Catalană"
+
+#: $lang['en_US']['LocaleName']['ca-XV']
+msgid "Catalan valencian"
+msgstr "Catalană velenciană"
+
+#: $lang['en_US']['LocaleName']['cs']
+msgid "Czech"
+msgstr "Cehă"
+
+#: $lang['en_US']['LocaleName']['cy']
+msgid "Welsh"
+msgstr "Velsiană"
+
+#: $lang['en_US']['LocaleName']['da']
+msgid "Danish"
+msgstr "Daneză"
+
+#: $lang['en_US']['LocaleName']['de']
+msgid "German"
+msgstr "Germană"
+
+#: $lang['en_US']['LocaleName']['dgo']
+msgid "Dogri"
+msgstr "Dogri"
+
+#: $lang['en_US']['LocaleName']['dz']
+msgid "Dzongkha"
+msgstr "Dzongkha"
+
+#: $lang['en_US']['LocaleName']['el']
+msgid "Greek"
+msgstr "Greacă"
+
+#: $lang['en_US']['LocaleName']['en-GB']
+msgid "English (GB)"
+msgstr "Engleză (GB)"
+
+#: $lang['en_US']['LocaleName']['en-US']
+msgid "English (US)"
+msgstr "Engleză (US)"
+
+#: $lang['en_US']['LocaleName']['en-ZA']
+msgid "English (ZA)"
+msgstr "Engleză (ZA)"
+
+#: $lang['en_US']['LocaleName']['eo']
+msgid "Esperanto"
+msgstr "Esperanto"
+
+#: $lang['en_US']['LocaleName']['es']
+msgid "Spanish"
+msgstr "Spaniolă"
+
+#: $lang['en_US']['LocaleName']['et']
+msgid "Estonian"
+msgstr "Estoniană"
+
+#: $lang['en_US']['LocaleName']['eu']
+msgid "Basque"
+msgstr "Bască"
+
+#: $lang['en_US']['LocaleName']['fa']
+msgid "Persian"
+msgstr "Persană"
+
+#: $lang['en_US']['LocaleName']['fi']
+msgid "Finnish"
+msgstr "Finlandeză"
+
+#: $lang['en_US']['LocaleName']['fr']
+msgid "French"
+msgstr "Franceză"
+
+#: $lang['en_US']['LocaleName']['ga']
+msgid "Irish"
+msgstr "Irlandeză"
+
+#: $lang['en_US']['LocaleName']['gd']
+msgid "Scottish Gaelic"
+msgstr "Scoțiană galeză"
+
+#: $lang['en_US']['LocaleName']['gl']
+msgid "Galician"
+msgstr "Galiciană"
+
+#: $lang['en_US']['LocaleName']['gu']
+msgid "Gujarati"
+msgstr "Gujarati"
+
+#: $lang['en_US']['LocaleName']['he']
+msgid "Hebrew"
+msgstr "Ebraică"
+
+#: $lang['en_US']['LocaleName']['hi']
+msgid "Hindi"
+msgstr "Hindi"
+
+#: $lang['en_US']['LocaleName']['hr']
+msgid "Croatian"
+msgstr "Croată"
+
+#: $lang['en_US']['LocaleName']['hu']
+msgid "Hungarian"
+msgstr "Maghiară"
+
+#: $lang['en_US']['LocaleName']['id']
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+#: $lang['en_US']['LocaleName']['is']
+msgid "Icelandic"
+msgstr "Islandeză"
+
+#: $lang['en_US']['LocaleName']['it']
+msgid "Italian"
+msgstr "Italiană"
+
+#: $lang['en_US']['LocaleName']['ja']
+msgid "Japanese"
+msgstr "Japoneză"
+
+#: $lang['en_US']['LocaleName']['ka']
+msgid "Georgian"
+msgstr "Georgiană"
+
+#: $lang['en_US']['LocaleName']['kk']
+msgid "Kazakh"
+msgstr "Kazahă"
+
+#: $lang['en_US']['LocaleName']['km']
+msgid "Khmer"
+msgstr "Khmeră"
+
+#: $lang['en_US']['LocaleName']['kn']
+msgid "Kannada"
+msgstr "Kannada"
+
+#: $lang['en_US']['LocaleName']['ko']
+msgid "Korean"
+msgstr "Coreeană"
+
+#: $lang['en_US']['LocaleName']['kok']
+msgid "Konkani"
+msgstr "Konkani"
+
+#: $lang['en_US']['LocaleName']['ks']
+msgid "Kashmiri"
+msgstr "Cașmiră"
+
+#: $lang['en_US']['LocaleName']['ku']
+msgid "Kurdish"
+msgstr "Kurdă"
+
+#: $lang['en_US']['LocaleName']['lb']
+msgid "Luxembourgish"
+msgstr "Luxemburgheză"
+
+#: $lang['en_US']['LocaleName']['lo']
+msgid "Lao"
+msgstr "Laoțiană"
+
+#: $lang['en_US']['LocaleName']['lt']
+msgid "Lithuanian"
+msgstr "Lituaniană"
+
+#: $lang['en_US']['LocaleName']['lv']
+msgid "Latvian"
+msgstr "Letonă"
+
+#: $lang['en_US']['LocaleName']['mai']
+msgid "Maithili"
+msgstr "Maithili"
+
+#: $lang['en_US']['LocaleName']['mk']
+msgid "Macedonian"
+msgstr "Macedoneană"
+
+#: $lang['en_US']['LocaleName']['ml']
+msgid "Malayalam"
+msgstr "Malayalam"
+
+#: $lang['en_US']['LocaleName']['mn']
+msgid "Mongolian"
+msgstr "Mongolă"
+
+#: $lang['en_US']['LocaleName']['mni']
+msgid "Manipuri"
+msgstr "Manipuri"
+
+#: $lang['en_US']['LocaleName']['mr']
+msgid "Marathi"
+msgstr "Marathi"
+
+#: $lang['en_US']['LocaleName']['my']
+msgid "Burmese"
+msgstr "Birmaneză"
+
+#: $lang['en_US']['LocaleName']['nb']
+msgid "Norwegian Bokmål"
+msgstr "Norvegiană Bokmål"
+
+#: $lang['en_US']['LocaleName']['ne']
+msgid "Nepali"
+msgstr "Nepaleză"
+
+#: $lang['en_US']['LocaleName']['nl']
+msgid "Dutch"
+msgstr "Olandeză"
+
+#: $lang['en_US']['LocaleName']['nn']
+msgid "Norwegian Nynorsk"
+msgstr "Norvegiană Nynorsk"
+
+#: $lang['en_US']['LocaleName']['nr']
+msgid "Ndebele (South)"
+msgstr "Ndebele (Sud)"
+
+#: $lang['en_US']['LocaleName']['ns']
+msgctxt "$lang['en_US']['LocaleName']['ns']"
+msgid "Northern Sotho"
+msgstr "Sotho de nord"
+
+#: $lang['en_US']['LocaleName']['nso']
+msgctxt "$lang['en_US']['LocaleName']['nso']"
+msgid "Northern Sotho"
+msgstr "Sotho de nord"
+
+#: $lang['en_US']['LocaleName']['oc']
+msgid "Occitan"
+msgstr "Occitană"
+
+#: $lang['en_US']['LocaleName']['om']
+msgid "Oromo"
+msgstr "Oromo"
+
+#: $lang['en_US']['LocaleName']['or']
+msgid "Oriya"
+msgstr "Oriya"
+
+#: $lang['en_US']['LocaleName']['pa-IN']
+msgid "Panjabi"
+msgstr "Punjabă"
+
+#: $lang['en_US']['LocaleName']['pl']
+msgid "Polish"
+msgstr "Polonă"
+
+#: $lang['en_US']['LocaleName']['pt']
+msgid "Portuguese"
+msgstr "Portugheză"
+
+#: $lang['en_US']['LocaleName']['pt-BR']
+msgid "Portuguese (Brazil)"
+msgstr "Portugheză (Brazilia)"
+
+#: $lang['en_US']['LocaleName']['ro']
+msgid "Romanian"
+msgstr "Română"
+
+#: $lang['en_US']['LocaleName']['ru']
+msgid "Russian"
+msgstr "Rusă"
+
+#: $lang['en_US']['LocaleName']['rw']
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+#: $lang['en_US']['LocaleName']['sa-IN']
+msgid "Sanskrit"
+msgstr "Sanscrită"
+
+#: $lang['en_US']['LocaleName']['sat']
+msgid "Santali"
+msgstr "Santali"
+
+#: $lang['en_US']['LocaleName']['sd']
+msgid "Sindhi"
+msgstr "Sindhi"
+
+#: $lang['en_US']['LocaleName']['sh']
+msgid "Serbian (Latin)"
+msgstr "Sârbă (Latin)"
+
+#: $lang['en_US']['LocaleName']['si']
+msgid "Sinhala"
+msgstr "Sinhaleză"
+
+#: $lang['en_US']['LocaleName']['sk']
+msgid "Slovak"
+msgstr "Slovacă"
+
+#: $lang['en_US']['LocaleName']['sl']
+msgid "Slovenian"
+msgstr "Slovenă"
+
+#: $lang['en_US']['LocaleName']['sq']
+msgid "Albanian"
+msgstr "Albaneză"
+
+#: $lang['en_US']['LocaleName']['sr']
+msgid "Serbian (Cyrillic)"
+msgstr "Sârbă (Chrilic)"
+
+#: $lang['en_US']['LocaleName']['ss']
+msgid "Swati"
+msgstr "Swati"
+
+#: $lang['en_US']['LocaleName']['st']
+msgid "Southern Sotho"
+msgstr "Sotho de sud"
+
+#: $lang['en_US']['LocaleName']['sv']
+msgid "Swedish"
+msgstr "Suedeză"
+
+#: $lang['en_US']['LocaleName']['sw-TZ']
+msgid "Swahili "
+msgstr "Swahili "
+
+#: $lang['en_US']['LocaleName']['ta']
+msgid "Tamil"
+msgstr "Tamilă"
+
+#: $lang['en_US']['LocaleName']['te']
+msgid "Telugu"
+msgstr "Telugu"
+
+#: $lang['en_US']['LocaleName']['tg']
+msgid "Tajik"
+msgstr "Tadjică"
+
+#: $lang['en_US']['LocaleName']['th']
+msgid "Thai"
+msgstr "Thailandeză"
+
+#: $lang['en_US']['LocaleName']['tn']
+msgid "Tswana"
+msgstr "Tswana"
+
+#: $lang['en_US']['LocaleName']['tr']
+msgid "Turkish"
+msgstr "Turcă"
+
+#: $lang['en_US']['LocaleName']['ts']
+msgid "Tsonga"
+msgstr "Tsonga"
+
+#: $lang['en_US']['LocaleName']['tt']
+msgid "Tatar"
+msgstr "Tătară"
+
+#: $lang['en_US']['LocaleName']['ug']
+msgid "Uighur"
+msgstr "Uigură"
+
+#: $lang['en_US']['LocaleName']['uk']
+msgid "Ukrainian"
+msgstr "Ucrainieană"
+
+#: $lang['en_US']['LocaleName']['uz']
+msgid "Uzbek"
+msgstr "Uzbecă"
+
+#: $lang['en_US']['LocaleName']['ve']
+msgid "Venda"
+msgstr "Venda"
+
+#: $lang['en_US']['LocaleName']['vi']
+msgid "Vietnamese"
+msgstr "Vietnameză"
+
+#: $lang['en_US']['LocaleName']['xh']
+msgid "Xhosa"
+msgstr "Xhosa"
+
+#: $lang['en_US']['LocaleName']['zh-CN']
+msgid "Chinese (simplified)"
+msgstr "Chineză (simplificată)"
+
+#: $lang['en_US']['LocaleName']['zh-TW']
+msgid "Chinese (traditional)"
+msgstr "Chineză (tradițională)"
+
+#: $lang['en_US']['LocaleName']['zu']
+msgid "Zulu"
+msgstr "Zulu"

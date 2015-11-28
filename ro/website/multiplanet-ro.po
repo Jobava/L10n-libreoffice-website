@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-06 16:10+0000\n"
+"PO-Revision-Date: 2015-03-09 14:52+0000\n"
+"Last-Translator: Jobava <jobaval10n@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.7\n"
+"X-POOTLE-MTIME: 1425912747.000000\n"
+"X-Pootle-Path: /ro/website/multiplanet-ro.po\n"
+"X-Pootle-Revision: 0\n"
+
+#: planetsuse/code.html:8
+msgid "_DATE_FORMAT_"
+msgstr "_DATE_FORMAT_"
+
+#: planetsuse/code.html:9
+msgid "read more"
+msgstr "Citește mai mult"
+
+#: planetsuse/feedlist_template.html:38 planetsuse/planet_template.html:53
+msgid "Welcome to The Document Foundation Planet"
+msgstr "Bun venit pe The Document Foundation Planet"
+
+#: planetsuse/feedlist_template.html:40
+msgid "This page contains the list of all the <a href=\"http://www.libreoffice.org\">LibreOffice</a> and <a href=\"http://www.documentfoundation.org\">Document Foundation</a> contributors who are aggregated on <a href=\"./\">The Document Foundation Planet</a>."
+msgstr ""
+"Pagina conține lista contribuitorilor <a href=\"http://www.libreoffice.org\""
+">LibreOffice</a> și <a href=\"http://www.documentfoundation.org\">Document "
+"Foundation</a> cine au fost de acord cu acesta <a href=\"./\">The Document "
+"Foundation Planet</a>."
+
+#: planetsuse/feedlist_template.html:45 planetsuse/planet_template.html:60
+msgid "To have your blog added to this aggregator, please mail the website@global.libreoffice.org mailinglist or file a ticket in <a href=\"https://redmine.documentfoundation.org/\">Redmine</a>."
+msgstr ""
+"Dacă doriți ca un blog să fie adăugat la această listă, trimiteți un e-mail "
+"la lista website@global.libreoffice.org sau creați un tichet în <a href=\""
+"https://redmine.documentfoundation.org/\">Redmine</a>."
+
+#: planetsuse/feedlist_template.html:49 planetsuse/planet_template.html:88
+msgid "Actions"
+msgstr "Acțiuni"
+
+#: planetsuse/feedlist_template.html:51
+msgid "Back to The Document Foundation Planet"
+msgstr "Înapoi la The Document Foundation Planet"
+
+#: planetsuse/feedlist_template.html:53
+msgid "Show all feeds"
+msgstr "Afișează toate feedurile"
+
+#: planetsuse/feedlist_template.html:56 planetsuse/planet_template.html:95
+msgid "Metadata"
+msgstr "Metadate"
+
+#: planetsuse/feedlist_template.html:66
+msgid "Aggregated feeds"
+msgstr "Feeduri cumulate"
+
+#: planetsuse/feedlist_template.html:112 planetsuse/planet_template.html:168
+msgid "Pascal Bleser and the openSUSE Community"
+msgstr "Pascal Bleser și comunitatea openSUSE"
+
+#: planetsuse/planet_template.html:8
+msgid "Aggregation of the blogs of LibreOffice contributors"
+msgstr "Cumularea blogurilor contribuitorilor LibreOffice"
+
+#: planetsuse/planet_template.html:21 planetsuse/planet_template.html:26
+msgid "Subscriptions"
+msgstr "Abonare"
+
+#: planetsuse/planet_template.html:22
+msgid "Subscriptions (all languages)"
+msgstr "Abonare (toate limbile)"
+
+#: planetsuse/planet_template.html:24 planetsuse/planet_template.html:25 planetsuse/planet_template.html:85
+msgid "all languages"
+msgstr "toate limbile"
+
+#: planetsuse/planet_template.html:37 planetsuse/planet_template.html:91
+msgid "Overview"
+msgstr "Vedere de ansamblu"
+
+#: planetsuse/planet_template.html:55
+msgid "This is a feed aggregator that collects what <a href=\"http://www.libreoffice.org\">LibreOffice</a> and <a href=\"http://www.documentfoundation.org\">Document Foundation</a> contributors are writing in their respective blogs."
+msgstr ""
+"Feedul colectează ce scriu contribuitorii <a href=\"http://www.libreoffice."
+"org\">LibreOffice</a> și <a href=\"http://www.documentfoundation.org\">"
+"Document Foundation</a> pe blogurile proprii."
+
+#: planetsuse/planet_template.html:64
+msgid "Languages"
+msgstr "Limbi"
+
+#: planetsuse/planet_template.html:66
+msgid "English"
+msgstr "Engleză"
+
+#: planetsuse/planet_template.html:67
+msgid "French"
+msgstr "Franceză"
+
+#: planetsuse/planet_template.html:68
+msgid "Portuguese"
+msgstr "Portugheză"
+
+#: planetsuse/planet_template.html:69
+msgid "Japanese"
+msgstr "Japoneză"
+
+#: planetsuse/planet_template.html:70
+msgid "Italian"
+msgstr "Italiană"
+
+#: planetsuse/planet_template.html:71
+msgid "Slovenian"
+msgstr "Slovenă"
+
+#: planetsuse/planet_template.html:72
+msgid "Turkish"
+msgstr "Turcă"
+
+#: planetsuse/planet_template.html:73
+msgid "Traditional Chinese"
+msgstr "Chineză tradițională"
+
+#: planetsuse/planet_template.html:74
+msgid "Russian"
+msgstr "Rusă"
+
+#: planetsuse/planet_template.html:75
+msgid "German"
+msgstr "Germană"
+
+#: planetsuse/planet_template.html:76
+msgid "Spanish"
+msgstr "Spaniolă"
+
+#: planetsuse/planet_template.html:77
+msgid "Polish"
+msgstr "Poloneză"
+
+#: planetsuse/planet_template.html:78
+msgid "Indonesian"
+msgstr "Indoneziană"
+
+#: planetsuse/planet_template.html:79
+msgid "Czech"
+msgstr "Cehă"
+
+#: planetsuse/planet_template.html:80
+msgid "Simplified Chinese"
+msgstr "Chineză Simplificată"
+
+#: planetsuse/planet_template.html:81
+msgid "Romanian"
+msgstr "Română"
+
+#: planetsuse/planet_template.html:82
+msgid "Hungarian"
+msgstr "Maghiară"
+
+#: planetsuse/planet_template.html:83
+msgid "Greek"
+msgstr "Greacă"
+
+#: planetsuse/planet_template.html:84
+msgid "Mongolian"
+msgstr "Mongolă"
+
+#: planetsuse/planet_template.html:90 planetsuse/planet_template.html:105
+msgid "Keyboard shortcuts"
+msgstr "Taste rapide"
+
+#: planetsuse/planet_template.html:92
+msgid "Feed list"
+msgstr "Lista de canale"
+
+#: planetsuse/planet_template.html:107
+msgid "toggle overview"
+msgstr "sare la prezentarea generală"
+
+#: planetsuse/planet_template.html:108
+msgid "toggle help (this)"
+msgstr "sari la ajutor (acesta)"
+
+#: planetsuse/planet_template.html:109
+msgid "next post"
+msgstr "următorul post"
+
+#: planetsuse/planet_template.html:110
+msgid "previous post"
+msgstr "precedentul post"
+
+#: planetsuse/planet_template.html:111
+msgid "next day"
+msgstr "ziua următoare"
+
+#: planetsuse/planet_template.html:112
+msgid "previous day"
+msgstr "ziua precedentă"
+
+#: planetsuse/planet_template.html:113
+msgid "go to top"
+msgstr "sus"
+
+#: planetsuse/planet_template.html:114
+msgid "cancel"
+msgstr "renunță"
+
+#: planetsuse/planet_template.html:116
+msgid "Note that you may use those keys with or without pressing the <span class=\"key\">alt</span> key."
+msgstr ""
+"Rețineți că puteți folosi aceste scurtături cu sau fără apăsarea tastei <"
+"span class=\"key\">alt</span>."
+
+#: planetsuse/planet_template.html:147
+msgid "Current blog entries"
+msgstr "Articole curente de pe blog"
+
+#: planetsuse/planet_template.html:149
+msgid "Older blog entries"
+msgstr "Articole vechi de pe blog"
